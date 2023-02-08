@@ -20,9 +20,9 @@ Hence, continuous communication with the general chair, local chair, website cha
 ## International Dissemination (CFP and mailing lists)
 
 1. Websites for posting calls for papers:
-    - ACL Portal (https://www.aclweb.org/portal/)
-    - WikiCFP (http://www.wikicfp.com/cfp/)
-    - Eventseer (http://eventseer.net/)
+    - [ACL Portal](https://www.aclweb.org/portal/)
+    - [WikiCFP](http://www.wikicfp.com/cfp/)
+    - [Eventseer](http://eventseer.net/)
 2. NLP mailing lists:
     - Connectionist
     - Corpora
@@ -41,12 +41,12 @@ Hence, continuous communication with the general chair, local chair, website cha
     - SIGSEM
     - SIGWAC
     - SIGMOL
-    - the list of all SIGs (https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance)
+    - The [list of all SIGs](https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance)
 3. NLP regional groups
-    - AFNLP (http://www.afnlp.org/)
+    - [AFNLP](http://www.afnlp.org/)
     - ALTA (Australiasian Language Technology)
     - UK
-    - Japan (http://www.anlp.jp/en/rules/ML.html)
+    - [Japan](http://www.anlp.jp/en/rules/ML.html)
     - Taiwan
     - China
 
@@ -54,7 +54,7 @@ Hence, continuous communication with the general chair, local chair, website cha
 
 - Establish feeds in Twitter, Facebook, and elsewhere for the conference, with the appropriate hashtag name.
 Try to avoid hashtag clash, for example, by using `#acl2016berlin` instead of `#acl2016`.
-`#aclYEAR` is typically used for a sports event (e.g., https://twitter.com/TheAFCCL).
+`#aclYEAR` is typically used for a sports event (e.g., [https://twitter.com/TheAFCCL](https://twitter.com/TheAFCCL)).
 For EMNLP, NAACL, EACL we don't seem to have this issue.
 - Before the conference, broadcast interesting updates (invited speakers, social events, awards, etc.).
 - Perhaps include the hashtag in an appropriate message in the conference handbook?

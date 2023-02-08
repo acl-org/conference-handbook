@@ -65,7 +65,7 @@ This would allow for rapid development of conference websites and also present a
 
 Useful links:
 
-- ACL 2017 conference website: http://acl2017.org
-- ACL 2017 conference website github repository: https://github.com/acl2017/acl2017.github.io
-- ACL 2017 conference app: https://guidebook.com/g/acl2017nlp/
+- [ACL 2017 conference website](http://acl2017.org)
+- [ACL 2017 conference website github repository](https://github.com/acl2017/acl2017.github.io)
+- [ACL 2017 conference app](https://guidebook.com/g/acl2017nlp/)
 

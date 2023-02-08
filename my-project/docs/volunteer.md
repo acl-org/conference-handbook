@@ -24,7 +24,7 @@ Work with Priscilla and the volunteers the day before the tutorials to set thing
 - Will NSF always provide funding? How do I get it?
     - You contact Tatiana Korelsky. Unfortunately, NSF only supports student travel if there is a doctoral consortium at the conference ... though, some have gotten lucky anyway, so worth a try.
 - What does a call for volunteers look like?
-    - https://www.aclweb.org/mirror/emnlp2016/student-scholarship.html
+    - See [here](https://www.aclweb.org/mirror/emnlp2016/student-scholarship.html)
 - What does an example application look like?
-    - https://www.hlt.utdallas.edu/~vince/emnlp-2016/ApplicationForm.doc
+    - See [here](https://www.hlt.utdallas.edu/~vince/emnlp-2016/ApplicationForm.doc)
 
