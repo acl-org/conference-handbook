@@ -20,42 +20,41 @@ Hence, continuous communication with the general chair, local chair, website cha
 ## International Dissemination (CFP and mailing lists)
 
 1. Websites for posting calls for papers:
-  - ACL Portal (https://www.aclweb.org/portal/)
-  - WikiCFP (http://www.wikicfp.com/cfp/)
-  - Eventseer (http://eventseer.net/)
+    - ACL Portal (https://www.aclweb.org/portal/)
+    - WikiCFP (http://www.wikicfp.com/cfp/)
+    - Eventseer (http://eventseer.net/)
 2. NLP mailing lists:
-  - Connectionist
-  - Corpora
-  - Linguist List
-  - ML news
-  - MT list
-  - Omid's NLP conference calendar
-  - SemEval
-  - SIGIR
-  - SIGLEX
-  - SIGDIAL
-  - SIGGEN
-  - SIGPARSE
-  - SIGHAN
-  - SIGMORPHON
-  - SIGSEM
-  - SIGWAC
-  - SIGMOL
-  - the list of all SIGs (https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance)
+    - Connectionist
+    - Corpora
+    - Linguist List
+    - ML news
+    - MT list
+    - Omid's NLP conference calendar
+    - SemEval
+    - SIGIR
+    - SIGLEX
+    - SIGDIAL
+    - SIGGEN
+    - SIGPARSE
+    - SIGHAN
+    - SIGMORPHON
+    - SIGSEM
+    - SIGWAC
+    - SIGMOL
+    - the list of all SIGs (https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance)
 3. NLP regional groups
-  - AFNLP (http://www.afnlp.org/)
-  - ALTA (Australiasian Language Technology)
-  - UK
-  - Japan (http://www.anlp.jp/en/rules/ML.html)
-  - Taiwan
-  - China
-
+    - AFNLP (http://www.afnlp.org/)
+    - ALTA (Australiasian Language Technology)
+    - UK
+    - Japan (http://www.anlp.jp/en/rules/ML.html)
+    - Taiwan
+    - China
 
 ## Social Media
 
 - Establish feeds in Twitter, Facebook, and elsewhere for the conference, with the appropriate hashtag name.
-Try to avoid hashtag clash, for example, by using #acl2016berlin instead of #acl2016.
-#aclYEAR is typically used for a sports event (e.g., https://twitter.com/TheAFCCL).
+Try to avoid hashtag clash, for example, by using `#acl2016berlin` instead of `#acl2016`.
+`#aclYEAR` is typically used for a sports event (e.g., https://twitter.com/TheAFCCL).
 For EMNLP, NAACL, EACL we don't seem to have this issue.
 - Before the conference, broadcast interesting updates (invited speakers, social events, awards, etc.).
 - Perhaps include the hashtag in an appropriate message in the conference handbook?
@@ -95,38 +94,38 @@ NAACL 2016 Publicity Chair and General Chair
 ## Example Tasks and Timeline from ACL2017
 
 - Social Media
-  - Recommended platforms: Facebook, Twitter
-  - Optional platform: Instagram
-  - Reference* social media accounts: Facebook@acl2017 Twitter@acl2017 Instagram@aclnlp
+    - Recommended platforms: Facebook, Twitter
+    - Optional platform: Instagram
+    - Reference* social media accounts: Facebook@acl2017 Twitter@acl2017 Instagram@aclnlp
 - Chairs to communicate with
-  - General Chair
-  - Program Co-Chairs
-  - Web master
-  - Local Organizing Committee
+    - General Chair
+    - Program Co-Chairs
+    - Web master
+    - Local Organizing Committee
 - Timeline: (Approximate)
-  - A. As soon as chair is selected:
-    - Create/get access to social media accounts and fill with conference information
-    - Identify media outlets with local organizing committee (e.g. university press, tech magazines, tv stations, etc). Optional: national or international media outlets
-  - B. Oct - Feb, mainly information dissemination
-    - First, second and last CFP
-    - Call-for-participation of tutorials, demos, etc.
-    - Any social media updates suggested by chairs
-    - Reach out to media outlets
-  - C. Feb - Jun
-    - Promote information from Program Co-Chairs and General Chairs
-    - Confirm with chairs on official hashtag and announce via social media
-    - Promote registration when the website is up
-    - Promote accepted papers
-    - Promote conference venue information
-    - Promote other misc informations on the conference website (e.g. reminder for visa application, conference hotel booking, etc.)
-    - Follow up with media outlets
-  - D. July - Before Conference
-    - Reminder of registration deadlines (early, regular and onsite)
-    - Promote about invited speakers and other conference activities
-    - Promote any info requested by the chairs
-  - E. During Conference
-    - Promote reminders of all the main events/activities, as well as tutorial and workshop information
-    - Work with webmaster and chairs to disseminate any important information; also to make sure there's no discrepancy in schedule between difference sources (e.g. handbook vs conference app)
-    - Promote any last min changes or correction
-    - Take photos of sessions, optional: post to instagram
-    - Re-tweet important posts
+    - A. As soon as chair is selected:
+        - Create/get access to social media accounts and fill with conference information
+        - Identify media outlets with local organizing committee (e.g. university press, tech magazines, tv stations, etc). Optional: national or international media outlets
+    - B. Oct - Feb, mainly information dissemination
+        - First, second and last CFP
+        - Call-for-participation of tutorials, demos, etc.
+        - Any social media updates suggested by chairs
+        - Reach out to media outlets
+    - C. Feb - Jun
+        - Promote information from Program Co-Chairs and General Chairs
+        - Confirm with chairs on official hashtag and announce via social media
+        - Promote registration when the website is up
+        - Promote accepted papers
+        - Promote conference venue information
+        - Promote other misc informations on the conference website (e.g. reminder for visa application, conference hotel booking, etc.)
+        - Follow up with media outlets
+    - D. July - Before Conference
+        - Reminder of registration deadlines (early, regular and onsite)
+        - Promote about invited speakers and other conference activities
+        - Promote any info requested by the chairs
+    - E. During Conference
+        - Promote reminders of all the main events/activities, as well as tutorial and workshop information
+        - Work with webmaster and chairs to disseminate any important information; also to make sure there's no discrepancy in schedule between difference sources (e.g. handbook vs conference app)
+        - Promote any last min changes or correction
+        - Take photos of sessions, optional: post to instagram
+        - Re-tweet important posts

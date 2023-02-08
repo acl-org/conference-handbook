@@ -1,8 +1,12 @@
 # Conference Handbook
 
 This handbook provides information on the organization of *ACL conferences* (including ACL, EACL, NAACL-HLT, AACL, and EMNLP), while it is also partially applicable to other ACL-related events (e.g. workshops).
-The ACL conference officer is mainly responsible for maintaining this handbook, while it is encouraged for conference chairs to send pull requests for updating the contents of each document.
-A large part of this handbook is borrowed from the [old version of the conference handbook](https://aclweb.org/adminwiki/index.php/Conference_Handbook), while significantly reorganized and updated to follow the latest information of ACL conferences.
+
+A large part of this handbook is borrowed from the [old version of the conference handbook](https://aclweb.org/adminwiki/index.php/Conference_Handbook), and significantly reorganized and updated to follow the latest information of ACL conferences.
+
+The ACL conference officer is mainly responsible for maintaining this handbook.
+The source of the handbook is put in the [github repository](https://github.com/acl-org/conference-handbook).
+It is encouraged for conference chairs to send pull requests for updating the contents of each document.
 
 ## ACL Policies
 
@@ -62,17 +66,17 @@ The following documents are also relevant:
 - [Exhibits Chair](exhibits.md)
 - [Publicity Chair](publicity.md)
 - [Website Chair](website.md)
-- [Virtual Infrastructure Chair](virtual.md)
-- [Ethics Chair](ethics.md)
-- [Diversity and Inclusion Chair](diversity.md)
+- [Virtual Infrastructure Chair](virtual.md) (TBA)
+- [Ethics Chair](ethics.md) (TBA)
+- [Diversity and Inclusion Chair](diversity.md) (TBA)
 
 ## Documents
 
 - Sample calls
-  - [Call for Bids](call_for_bids.md)
-  - [Call for Papers](cfp.md)
-  - [Call for Workshop Proposals](call_for_workshops.md)
-  - [Call for Tutorial Proposals](call_for_tutorials.md)
-  - [Call for Demos](call_for_demos.md)
-  - [Call for SRW Papers](call_for_srw.md)
+    - [Call for Bids](call_for_bids.md)
+    - [Call for Papers](cfp.md)
+    - [Call for Workshop Proposals](call_for_workshops.md)
+    - [Call for Tutorial Proposals](call_for_tutorials.md)
+    - [Call for Demos](call_for_demos.md)
+    - [Call for SRW Papers](call_for_srw.md)
 

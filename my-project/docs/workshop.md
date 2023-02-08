@@ -10,6 +10,8 @@ Once the workshops for a given conference have been identified, the Workshop Cha
 3. Workshops formally sponsored by an ACL SIG but not associated with an ACL conference.
 4. Workshops that are neither formally sponsored by a SIG nor associated with an ACL conference.
 
+Refer to the following documents to understand the policies related to workshop organization.
+
 - The [ACL General Policies on Workshops](https://aclweb.org/adminwiki/index.php/ACL_General_Policies_on_Workshops) provides a set of policies that apply in general to all workshops.
 - The [ACL Policies on Conference Workshops](https://aclweb.org/adminwiki/index.php/ACL_Policies_on_Conference_Workshops) provides additional policies that govern workshops held in conjunction with ACL conferences.
 - The [ACL Policies on SIG Workshops](https://aclweb.org/adminwiki/index.php/ACL_Policies_on_SIG_Workshops) provides additional policies that govern workshops formally sponsored by ACL SIGs, whether or not they are held in conjunction with an ACL conference.
@@ -35,7 +37,7 @@ While each workshop chair might have their idea of how to perform their duties, 
 - Create a mailing list for all workshops chairs of the calendar year (two per conference).
 This can help researchers reach out to all workshop chairs and aid coordination between the different conferences of the year.
 Example: workshop-chairs-<year>@googlegroups.com
-  - Note: sometimes EMNLP chairs are selected late and some of the initial coordination will be performed without them.
+    - Note: sometimes EMNLP chairs are selected late and some of the initial coordination will be performed without them.
 - Obtain registration and attendance statistics from recent years (through the ACL Office and last year’s chairs).
 This helps estimate the size of a workshop, which is important when assigning workshops to venues.
 Venues have different capacities and so it is important to have large/medium/small workshops distributed across venues in a reasonable manner.
@@ -61,24 +63,24 @@ However, the chairs need to get their venue preferences for the year.
 In 2016-2017 about 60 workshops proposals were submitted, so this means that if each proposal receives 2 reviews and each committee member reviews 4 workshop proposals, a committee of 30 reviewers is needed.
 This is a process similar to choosing a conference program.
 - In 2017, we opted for a different methodology. The main reasons were:
-  - Criteria for workshop selection is vague and so having a large program committee reduces fairness.
-  - Rejection rate increased to ~40-50%.
-  - An important criterion is public interest and that is not gauged well in the current model.
+    - Criteria for workshop selection is vague and so having a large program committee reduces fairness.
+    - Rejection rate increased to ~40-50%.
+    - An important criterion is public interest and that is not gauged well in the current model.
 - Instead we performed the following changes:
-  - Online survey: Hold an online survey among ACL members (get mailing list from the ACL Office) asking them to indicate which workshops they would likely attend.
-  This process also helps workshop organizers put up a website early and advertise the upcoming workshops to the ACL community.
-  - After results of the survey are in, each workshop chair reviews 1/6 of the proposals and comments on them.
-  Then a discussion among all workshops chairs and they jointly decide the selected workshops.
-  Considerations include
-    - Interest in the past
-    - Interest according to online survey
-    - Diversity
-    - Quality of organizing team
-    - Size of workshop
-    - Novelty
+    - Online survey: Hold an online survey among ACL members (get mailing list from the ACL Office) asking them to indicate which workshops they would likely attend.
+    This process also helps workshop organizers put up a website early and advertise the upcoming workshops to the ACL community.
+    - After results of the survey are in, each workshop chair reviews 1/6 of the proposals and comments on them.
+    Then a discussion among all workshops chairs and they jointly decide the selected workshops.
+    Considerations include
+        - Interest in the past
+        - Interest according to online survey
+        - Diversity
+        - Quality of organizing team
+        - Size of workshop
+        - Novelty
 - Survey e-mail sent to ACL members.
-  - For more details see this document (TBA)
-  - Code and scripts for setting up the online survey are here (TBA)
+    - For more details see this document (TBA)
+    - Code and scripts for setting up the online survey are here (TBA)
 - Workshop assignments: after workshops are chosen they are assigned to the different venues and are given a date.
 Rejection and acceptance e-mails are sent.
 At this point the joint work of all workshops chairs is mostly over and each pair of workshop chairs take care of their own conference.
@@ -103,14 +105,14 @@ If not, workshops organizers need to know they should do it.
 - Write a progress report for ACL executives when asked by the general chair.
 - Prepare a coordination sheet for all the conference workshops.
 This will contain at least the following information by the end of the conference and needs to be verified by the workshop organizers:
-  - Official workshop name
-    - *Exact* name of the proceedings
-  - URL of workshop website
-  - Abbreviation for SoftConf link (program chair)
-  - Contacts for all workshop organizers
-  - Number of posters and time when they are needed
-  - ACL ID prefix for ACL anthology (publication chair)
-  - ISBN: after confirming the exact name of the proceedings, ask the ACL Office to issue ISBN numbers, then rally the ISBN numbers back to the workshop organizers for them to add into proceedings.
+    - Official workshop name
+        - *Exact* name of the proceedings
+    - URL of workshop website
+    - Abbreviation for SoftConf link (program chair)
+    - Contacts for all workshop organizers
+    - Number of posters and time when they are needed
+    - ACL ID prefix for ACL anthology (publication chair)
+    - ISBN: after confirming the exact name of the proceedings, ask the ACL Office to issue ISBN numbers, then rally the ISBN numbers back to the workshop organizers for them to add into proceedings.
 - Announce the size of posters for the workshops (ask the ACL Office about the size; it could be different from the main conference)
 - Usually each workshop waives registration fee for one invited speaker.
 This can also be managed in the coordination sheet.
@@ -118,12 +120,12 @@ This can also be managed in the coordination sheet.
 All workshops should have the exact time for meals and breaks.
 This is very important as otherwise it is very hard to coordinate breaks for all workshops.
 Example:
-  - Breakfast 7:30-9:00 am
-  - Start time: between 8:30 and 9:00 am
-  - Mid-morning coffee/decaf/tea refresh: 10:30-11:00 am
-  - Lunch: 12:30-2:00 pm
-  - Mid-afternoon Snacks: 3:30-4:00 pm
-  - End of day: 5:00-6:00 pm (preferably by 5:30)
+    - Breakfast 7:30-9:00 am
+    - Start time: between 8:30 and 9:00 am
+    - Mid-morning coffee/decaf/tea refresh: 10:30-11:00 am
+    - Lunch: 12:30-2:00 pm
+    - Mid-afternoon Snacks: 3:30-4:00 pm
+    - End of day: 5:00-6:00 pm (preferably by 5:30)
 - Remind workshop organizers about the handbook and especially the proceedings deadline (two weeks and four days before due dates) and include handbook and publication chairs in the same email thread.
 Ask handbook and publication chairs how do they want the schedule and proceedings submitted.
 Usually you may pass down the instructions from the handbook chair to the workshop organizers;

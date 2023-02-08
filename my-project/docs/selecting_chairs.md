@@ -7,9 +7,9 @@ The coordinating committee formed by the ACL exec is responsible for selecting G
 The General Chair of the main ACL conference should have:
 
 - experience from at least one (preferably two) of the following conference chair roles:
-  - Program Chair of a *major* international conference in Computational Linguistics or a related area
-  - Local Arrangements Chair of an international conference in Computational Linguistics or a related area
-  - General Chair of an international conference in Computational Linguistics or a related area
+    - Program Chair of a *major* international conference in Computational Linguistics or a related area
+    - Local Arrangements Chair of an international conference in Computational Linguistics or a related area
+    - General Chair of an international conference in Computational Linguistics or a related area
 - a proven capacity for leadership, including good organizational, collaborative and communicative skills.
 
 When appointing a General Chair, the coordinating committee should in addition consider the following:
