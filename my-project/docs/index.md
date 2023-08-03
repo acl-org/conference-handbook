@@ -4,9 +4,9 @@ This handbook provides information on the organization of *ACL conferences* (inc
 
 A large part of this handbook is borrowed from the [old version of the conference handbook](https://aclweb.org/adminwiki/index.php/Conference_Handbook), and significantly reorganized and updated to follow the latest information of ACL conferences.
 
-The ACL conference officer is mainly responsible for maintaining this handbook.
+The ACL conference officer is mainly responsible for maintaining this handbook, while contributions from conference chairs/organizers are necessary.
 The source of the handbook is put in the [github repository](https://github.com/acl-org/conference-handbook).
-It is encouraged for conference chairs to send pull requests for updating the contents of each document.
+Conference chairs/organizers should send pull requests for updating the contents of each document.
 
 ## ACL Policies
 
