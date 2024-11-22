@@ -1,4 +1,4 @@
-# Virtual Infrastructure Chair
+# Diversity and Inclusion Chair
 
 
 
