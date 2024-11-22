@@ -1,4 +1,4 @@
-# Diversity and Inclusion Chair
+# Technical Open Review Chair
 
 
 
