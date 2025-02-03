@@ -52,7 +52,8 @@ To create charts, you need to customize Freshdesk along with ccreating your own 
 
 You can find examples from 2024 here: [stats folder](figures/InternalCommunicationStats/)
 
-Also, here is one that gives you an idea of the workload to expect:
+Also, here is a couple of charts that gives you an idea of the workload to expect:
+![tickets evolution](figures/InternalCommunicationStats/tickets_created_evolution.png)
 ![tickets created per day](figures/InternalCommunicationStats/tickets_created_per_day.png)
 
 ### Tips and Tricks
