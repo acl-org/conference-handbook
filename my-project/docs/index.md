@@ -55,6 +55,7 @@ The following documents are also relevant:
 - [General Chair](general.md)
 - [Local Organization Chair](local.md)
 - [Program Chair](pc.md)
+- [Best Paper Award Chair](award.md)
 - [Publication Chair](publication.md)
 - [Handbook Chair](handbook.md)
 - [Workshop Chair](workshop.md)
