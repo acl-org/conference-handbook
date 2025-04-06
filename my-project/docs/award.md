@@ -4,9 +4,7 @@ Best Paper Award Chairs are responsible for selecting conference awards complyin
 
 This handbook describes implementation of the selection process. 
 
-## Selection Process 
-
-### Nominations 
+## Nominations 
 
 In the review process, reviewers (Note: PCs may choose whether or not to include reviewers in the nomination process.), AEs, ACs, and SACs will be asked to answer the following questions:
 
@@ -27,15 +25,15 @@ Special category awards can either be handled in the same way, by editing the qu
 
 The eligibility for non-publicized paper awards should be confirmed before notification, i.e., in-between the final acceptance decision by PCs and notification. The best paper committee chairs or program chairs search for paper titles and authors of the candidates at preprint servers, popular social media, or on the web in general.  
 
-### Organization of Best Paper Committee 
+## Organization of Best Paper Committee 
 
 Program chairs should select and appoint a Best Paper Committee Chair(s) early in the process (it is recommended well before the submission deadline), who will manage the entire process. A best paper committee will be selected by the program chairs together with the Best Paper Committee Chair(s). The committee size should be large enough to keep the load to around 10-15 papers per member. The committee should be diverse in composition in terms of research areas and demographics. It is best to form the committee before the review process commences, otherwise it may be hard to recruit members.
 
-### Collection of Publicized Status and Anonymized PDFs
+## Collection of Publicized Status and Anonymized PDFs
 The program chairs should collect (1) publicized status and (2) anonymized version of PDFs at the time of camera-ready submission. The simplest way should be use the camera-ready submission form and ask everyone to submit these.  
 First, the program chairs and committee chair(s) collect anonymized final camera-ready versions of the candidates. If the papers are not anonymized then the committee chair is encouraged to manually redact author information on the first page of the paper. 
 
-### Selection
+## Selection Process
 *The process below was developed based on the assumption that the nomination process leads to 50-80 papers being considered for awards. If the number of nominated papers turns out to be much higher, this process will not scale.  Best paper award chairs have latitude and discretion for the design of the selection process. PCs should approve the process.*
 
 The committee will follow a multistage process to determine the final awards. The committee will receive the (anonymized) camera-ready version of the paper, anonymized reviews, and associated supplementary materials. If the papers are not anonymized then the committee chair is encouraged to redact author information on the first page of the paper. Also, the chair should encourage the committee to not look for revealing author information elsewhere (e.g. acceptance list on the conference page).
