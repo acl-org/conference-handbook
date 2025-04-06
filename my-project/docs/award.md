@@ -8,12 +8,12 @@ This handbook describes implementation of the selection process.
 
 In the review process, reviewers (Note: PCs may choose whether or not to include reviewers in the nomination process.), AEs, ACs, and SACs will be asked to answer the following questions:
 
-* 1. "Could the camera-ready version of this paper merit consideration for an "outstanding paper" award (up to 2.5% of accepted papers will be recognized in this way)? Outstanding papers should be either fascinating, controversial, surprising, impressive, or potentially field-changing. Awards will be decided based on the camera-ready version of the paper."
-** "Yes"
-** "Maybe"
-** "No"
-* 2. "If yes/maybe, please briefly describe why:"
-** (short answer box with no word or character limit)
+1. "Could the camera-ready version of this paper merit consideration for an "outstanding paper" award (up to 2.5% of accepted papers will be recognized in this way)? Outstanding papers should be either fascinating, controversial, surprising, impressive, or potentially field-changing. Awards will be decided based on the camera-ready version of the paper."
+    - "Yes"
+    - "Maybe"
+    - "No"
+2. "If yes/maybe, please briefly describe why:"
+    - (short answer box with no word or character limit)
 
 The best paper committee should consider any paper that was marked "Yes" or "Maybe" by any reviewer (Note: PCs may choose whether or not consider papers that were labeled 'maybe' by a reviewer and not nominated by the AE/AC.), AE, AC, or SAC (Note:  This requirement is included to clarify how this policy interacts with ACL Rolling Review.).
 
