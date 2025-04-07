@@ -30,7 +30,7 @@ The eligibility for non-publicized paper awards should be confirmed before notif
 Program chairs should select and appoint a Best Paper Committee Chair(s) early in the process (it is recommended well before the submission deadline), who will manage the entire process. A best paper committee will be selected by the program chairs together with the Best Paper Committee Chair(s). The committee size should be large enough to keep the load to around 10-15 papers per member. The committee should be diverse in composition in terms of research areas and demographics. It is best to form the committee before the review process commences, otherwise it may be hard to recruit members.
 
 ## Collection of Publicized Status and Anonymized PDFs
-The program chairs should collect (1) publicized status and (2) anonymized version of PDFs at the time of camera-ready submission. The simplest way should be using the camera-ready submission form and ask everyone to submit these.  
+The program chairs should collect (1) publicized/non-publicized status and (2) anonymized versions of PDFs at the time of camera-ready submission. Both are critical for the award selection process. The simplest way should be to use the camera-ready submission form and ask everyone to submit these.  
 If this process turns out to be difficult for some reason and the papers are not anonymized, then the committee chair is encouraged to manually redact author information on the first page of the paper. 
 
 ## Selection Process
