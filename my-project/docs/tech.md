@@ -2,24 +2,24 @@
 
 ## Introduction
 
-The Technical Open Review Chair (TORC) is a key role within the academic conference management ecosystem, specifically focused on the OpenReview platform. This position bridges the gap between the conference organizing committee, program chairs, and the OpenReview development team. By understanding the intricacies of the OpenReview system, the TORC ensures smooth operation and communication during the peer review process, addressing technical issues and facilitating a seamless experience for users.
+The Technical Open Review Chair (TORC) is a key role within the academic conference management ecosystem, specifically focused on the [OpenReview](https://openreview.net/) platform. This position bridges the gap between the conference organizing committee, program chairs, and the OpenReview development team. By understanding the intricacies of the OpenReview system, the TORC ensures smooth operation and communication during the peer review process, addressing technical issues and facilitating a seamless experience for users.
 
 ## Key Responsibilities
 
 ### Proceedings Generation
 One of the primary responsibilities of the TORC is to assist in generating the conference proceedings using the ACLPUB tool ([source here](https://github.com/acl-org/ACLPUB)). This involves coordinating with program chairs to compile accepted papers and ensuring they are correctly formatted and published.
-?? Explore the information
-acl-org/ACLPUB: The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).
+
+Explore the information at [acl-org/ACLPUB](https://github.com/acl-org/ACLPUB): The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).
 
 ### Communication Facilitation
 The TORC plays a crucial role in facilitating communication among stakeholders. This includes:
-- Creating and managing groups within the OpenReview platform, such as those needed for specific conference venues.
-- Coordinating between various parties to ensure everyone is aligned on the review and submission process.
+** Creating and managing groups within the OpenReview platform, such as those needed for specific conference venues.
+** Coordinating between various parties to ensure everyone is aligned on the review and submission process.
 
 ### Ticket Management
-The TORC oversees the Freshdesk ticket management system, which serves as a support mechanism for Open Review users, predominantly editors and program chairs. If faced with issues beyond their purview, the TORC liaises with OpenReview developers, primarily Jonathan Kummerfeld and Vitor, to resolve problems efficiently.
-Freshdesk (ARR)
-Mailing list
+The TORC oversees the Freshdesk ticket management system, which serves as a support mechanism for Open Review users, predominantly editors and program chairs. If faced with issues beyond their purview, the TORC liaises with OpenReview developers, primarily [Jonathan Kummerfeld](http://j.k.kummerfeld@gmail.com/) and Vitor, to resolve problems efficiently.
+**Freshdesk (ARR)
+**Mailing list
 
 ### Workshop Assistance
 The TORC plays a crucial role in providing technical support to workshop organizers, ensuring they are proficient in using the OpenReview platform and resolving any related queries. By assisting the workshop organizers, the TORC helps alleviate the workload of OpenReview developers and the main conference chairs, allowing them to focus on higher-level tasks and issues.
@@ -50,9 +50,9 @@ There is an ongoing effort to develop a comprehensive tutorial that details the 
 
 ## Setup of the Commitment Site
 The OpenReview Co-Chairs are primarily responsible for setting up and maintaining the commitment site. To initiate the process, they should submit a request via the following link. It is recommended to follow the configuration settings used for previous *ACL venues. For further assistance, please contact the ARR technical team or OpenReview support.
-** Link to submit a request: Creating your Venue Instance | OpenReview
-** The request form created for ACL 2025: https://drive.google.com/file/d/1DU7DNvflRqxgYmVYZFHW4gmqIs24aw98/view?usp=drive_link
-** OpenReview contact: info@openreview.net (Contact | OpenReview)
+**Link to submit a request: Creating your Venue Instance | OpenReview
+**The request form created for ACL 2025: https://drive.google.com/file/d/1DU7DNvflRqxgYmVYZFHW4gmqIs24aw98/view?usp=drive_link
+**OpenReview contact: info@openreview.net (Contact | OpenReview)
 
 **Q4: Why the commitment request form chooses "our venue does not have Ethics Chairs and Reviewers" 
 **A4: The ethics chairs and reviewers were done within ARR, not within the *ACL commitment site.
@@ -67,9 +67,9 @@ You may write messages about reviewers with 0 assignments
 
 
 Python API to (Help PCs)
-** send the emails
-** Show distribution of scores, per area break down
-** Add a batch of reviewers
+**Send the emails
+**Show distribution of scores, per area break down
+**Add a batch of reviewers
 
 [Code repository](https://github.com/acl-org/arr-openreview/blob/main/v2/v2_sae_assignments.py) (version 1)
 Version 2 was released in April 2024 and only v2 would be used.
@@ -77,15 +77,15 @@ Version 2 was released in April 2024 and only v2 would be used.
 ### Managing Communication between OpenReview, ACL PCs, ARR editors and ARR technical co-chairs
 
 Co-chairs need support from OpenReview to complete the following tasks:
-** Add extra options in the PC console
-** Keep track of all new features
+**Add extra options in the PC console
+**Keep track of all new features
 
 During Review period
-** No access
-** Need to look back multiple cycles
+**No access
+**Need to look back multiple cycles
 
-** Q: If the deadline has passed, how to avoid double submissions? 
-** A: The deadline passes, sending a list of papers (titles and abstracts) committed to ARR technical co-directors, overlapped with submissions.
+**Q: If the deadline has passed, how to avoid double submissions? 
+**A: The deadline passes, sending a list of papers (titles and abstracts) committed to ARR technical co-directors, overlapped with submissions.
 
 Additional information:
 
