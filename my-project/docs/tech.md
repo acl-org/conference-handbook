@@ -69,7 +69,7 @@ Program Chairs Console
 
 You may write messages about reviewers with 0 assignments
 
-
+![Open Review Program Chairs Console](figures/openreview-program-chair.png)
 
 Python API to (Help PCs)
 **Send the emails**
