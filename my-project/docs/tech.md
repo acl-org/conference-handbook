@@ -13,18 +13,20 @@ Explore the information at [acl-org/ACLPUB](https://github.com/acl-org/ACLPUB): 
 
 ### Communication Facilitation
 The TORC plays a crucial role in facilitating communication among stakeholders. This includes:
-**Creating and managing groups within the OpenReview platform, such as those needed for specific conference venues.
-**Coordinating between various parties to ensure everyone is aligned on the review and submission process.
+* Creating and managing groups within the OpenReview platform, such as those needed for specific conference venues.
+* Coordinating between various parties to ensure everyone is aligned on the review and submission process.
 
 ### Ticket Management
 The TORC oversees the Freshdesk ticket management system, which serves as a support mechanism for Open Review users, predominantly editors and program chairs. If faced with issues beyond their purview, the TORC liaises with OpenReview developers, primarily [Jonathan Kummerfeld](http://j.k.kummerfeld@gmail.com/) and Vitor, to resolve problems efficiently.
-**Freshdesk (ARR)
-**Mailing list
+
+* Freshdesk (ARR)
+
+* Mailing list
 
 ### Workshop Assistance
 The TORC plays a crucial role in providing technical support to workshop organizers, ensuring they are proficient in using the OpenReview platform and resolving any related queries. By assisting the workshop organizers, the TORC helps alleviate the workload of OpenReview developers and the main conference chairs, allowing them to focus on higher-level tasks and issues.
 
-For Conference/Workshop Organizers – ACL Rolling Review – A peer review platform for the Association for Computational Linguistics
+[For Conference/Workshop Organizers – ACL Rolling Review](https://aclrollingreview.org/organizers) – A peer review platform for the Association for Computational Linguistics
 
 ### FAQ Management
 Maintaining a Frequently Asked Questions (FAQ) platform is another essential duty of the TORC. This resource serves as a knowledge base for users to resolve common issues independently, thus streamlining the support process and reducing repetitive queries.
@@ -50,16 +52,19 @@ There is an ongoing effort to develop a comprehensive tutorial that details the 
 
 ## Setup of the Commitment Site
 The OpenReview Co-Chairs are primarily responsible for setting up and maintaining the commitment site. To initiate the process, they should submit a request via the following link. It is recommended to follow the configuration settings used for previous *ACL venues. For further assistance, please contact the ARR technical team or OpenReview support.
-**Link to submit a request: Creating your Venue Instance | OpenReview
-**The request form created for ACL 2025: https://drive.google.com/file/d/1DU7DNvflRqxgYmVYZFHW4gmqIs24aw98/view?usp=drive_link
-**OpenReview contact: info@openreview.net (Contact | OpenReview)
+
+* Link to submit a request: [Creating your Venue Instance](https://docs.openreview.net/getting-started/hosting-a-venue-on-openreview/creating-your-venue-instance-submitting-a-venue-request-form)
+
+* The request form created for ACL 2025: (https://drive.google.com/file/d/1DU7DNvflRqxgYmVYZFHW4gmqIs24aw98/view?usp=drive_link)
+
+* OpenReview contact: info@openreview.net ([Contact](https://openreview.net/contact))
 
 **Q4: Why the commitment request form chooses "our venue does not have Ethics Chairs and Reviewers"** 
 **A4:** The ethics chairs and reviewers were done within ARR, not within the *ACL commitment site.
 **Q5: Other Important Information**
 **A5 from Steven Bethard:** You do not need to set up anything on the development server. We did that to test things out before setting it up on the real server because no one provided us with a template for the site, but if you’re following our template, practicing on the development server is probably unnecessary since you’re unlikely to change much. In short, you can probably ignore mentions of the development server and everything after “If you copy anything”.
 
-# Handle Program Chair requests using the Program Chairs Console and Python API
+## Handle Program Chair requests using the Program Chairs Console and Python API
 Program Chairs Console
 
 You may write messages about reviewers with 0 assignments
@@ -74,20 +79,24 @@ Python API to (Help PCs)
 [Code repository](https://github.com/acl-org/arr-openreview/blob/main/v2/v2_sae_assignments.py) (version 1)
 Version 2 was released in April 2024 and only v2 would be used.
 
-### Managing Communication between OpenReview, ACL PCs, ARR editors and ARR technical co-chairs
+## Managing Communication between OpenReview, ACL PCs, ARR editors and ARR technical co-chairs
 
 Co-chairs need support from OpenReview to complete the following tasks:
+
 * Add extra options in the PC console
+
 * Keep track of all new features
 
 During Review period
+
 * No access
+
 * Need to look back multiple cycles
 
 **Q: If the deadline has passed, how to avoid double submissions?** 
 **A:** The deadline passes, sending a list of papers (titles and abstracts) committed to ARR technical co-directors, overlapped with submissions.
 
-Additional information:
+## Additional information:
 
 * [openreview/openreview-py](https://github.com/openreview/openreview-py)): Official Python client library for the OpenReview API
 
