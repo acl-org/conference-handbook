@@ -73,9 +73,9 @@ You may write messages about reviewers with 0 assignments
 ![Open Review Program Chairs Console](figures/openreview-program-chair.png)
 
 Python API to (Help PCs)
-**Send the emails**
-**Show distribution of scores, per area break down**
-**Add a batch of reviewers**
+* Send the emails
+* Show distribution of scores, per area break down
+* Add a batch of reviewers
 
 [Code repository](https://github.com/acl-org/arr-openreview/blob/main/v2/v2_sae_assignments.py) (version 1)
 Version 2 was released in April 2024 and only v2 would be used.
