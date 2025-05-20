@@ -49,7 +49,7 @@ Maintaining a Frequently Asked Questions (FAQ) platform is another essential dut
 **A3:** If the TORC encounters an issue they cannot solve, they are advised to open a ticket on the Freshdesk system and, if necessary, contact the OpenReview developers through the same.
 
 
-## Tutorial Development:
+## Tutorial Development
 There is an ongoing effort to develop a comprehensive tutorial that details the role and responsibilities of the TORC, which should be updated annually by the designated TORC individual.
 
 ## Setup of the Commitment Site
@@ -61,10 +61,10 @@ The OpenReview Co-Chairs are primarily responsible for setting up and maintainin
 
 * OpenReview contact: info@openreview.net ([Contact](https://openreview.net/contact))
 
-**Q4: Why the commitment request form chooses "our venue does not have Ethics Chairs and Reviewers"** 
+**Q4: Why the commitment request form chooses "our venue does not have Ethics Chairs and Reviewers"**  
 **A4:** The ethics chairs and reviewers were done within ARR, not within the *ACL commitment site.
 
-**Q5: Other Important Information**
+**Q5: Other Important Information**  
 **A5 from Steven Bethard:** You do not need to set up anything on the development server. We did that to test things out before setting it up on the real server because no one provided us with a template for the site, but if you’re following our template, practicing on the development server is probably unnecessary since you’re unlikely to change much. In short, you can probably ignore mentions of the development server and everything after “If you copy anything”.
 
 ## Handle Program Chair requests using the Program Chairs Console and Python API
@@ -96,7 +96,7 @@ During Review period
 
 * Need to look back multiple cycles
 
-**Q: If the deadline has passed, how to avoid double submissions?** 
+**Q: If the deadline has passed, how to avoid double submissions?**  
 **A:** The deadline passes, sending a list of papers (titles and abstracts) committed to ARR technical co-directors, overlapped with submissions.
 
 ## Additional information:
