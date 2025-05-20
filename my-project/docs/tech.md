@@ -61,6 +61,7 @@ The OpenReview Co-Chairs are primarily responsible for setting up and maintainin
 
 **Q4: Why the commitment request form chooses "our venue does not have Ethics Chairs and Reviewers"** 
 **A4:** The ethics chairs and reviewers were done within ARR, not within the *ACL commitment site.
+
 **Q5: Other Important Information**
 **A5 from Steven Bethard:** You do not need to set up anything on the development server. We did that to test things out before setting it up on the real server because no one provided us with a template for the site, but if you’re following our template, practicing on the development server is probably unnecessary since you’re unlikely to change much. In short, you can probably ignore mentions of the development server and everything after “If you copy anything”.
 
