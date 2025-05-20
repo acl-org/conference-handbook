@@ -13,7 +13,9 @@ Explore the information at [acl-org/ACLPUB](https://github.com/acl-org/ACLPUB): 
 
 ### Communication Facilitation
 The TORC plays a crucial role in facilitating communication among stakeholders. This includes:
+
 * Creating and managing groups within the OpenReview platform, such as those needed for specific conference venues.
+
 * Coordinating between various parties to ensure everyone is aligned on the review and submission process.
 
 ### Ticket Management
