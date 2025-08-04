@@ -1,131 +1,88 @@
-# Publicity Chair
+# Publicity and Social Media Chair Handbook
 
-In some conferences, there maybe a dedicated social media chair.
-If not, the publicity chair will also be responsible for promoting the conference on social media platforms.
+## [Current Chairs](https://2025.aclweb.org/organization/):
+| Name                                                         | Affiliation             | Contact                    |
+| ------------------------------------------------------------ | ----------------------- | -------------------------- |
+| [Anette   Frank](https://2025.aclweb.org/organization/)      | Heidelberg  University  | frank@cl.uni-heidelberg.de |
+| [Shruti   Rijhwani](https://2025.aclweb.org/organization/)   | Google DeepMind         | shrutirijhwani@gmail.com   |
+| [Horacio   Saggion](https://2025.aclweb.org/organization/)[Horacio   Saggion](https://2025.aclweb.org/organization/) | Pompeu Fabra University | horacio.saggion@upf.edu    |
 
-The publicity chair has three major roles:
+---
 
-- International (main responsibility): Disseminating information about the conference (calls for papers, etc.) to the largest possible appropriate technical audience
-- Social Media (main responsibility): Initiating and maintaining a social media stream before and during the conference (e.g., Facebook and Twitter).
-We should consider setting up a single Facebook and Twitter for all main conferences.
-- Local: Accessing and bringing in the press at the time of the conference
+## Overview of Responsibilities
 
-Important instructions and warnings:
+The Publicity and Social Media* Chairs at *CL conferences are responsible for promoting the conference through various online and in-person methods, including "live-tweeting", posting updates, and attracting attention from the Press.
+*At some conferences there maybe a dedicated Social Media chair. If not, the Publicity chair will also be responsible for promoting the conference on social media platforms.\
 
-- Many mailing lists or websites may require several days to register and another several days have messages posted.
-Start registering and posting at least a week in advance!
-- The major role of the publicity chair is to advertise the conference and inform people of important updates.
-Hence, continuous communication with the general chair, local chair, website chair and program chairs is necessary.
+**The following are the main responsibilities of the Publicity Chairs:**
 
-## International Dissemination (CFP and mailing lists)
+**1. Cross-Committee Coordination**\
+**2. Disseminating Conference Information**\
+**3. During-Conference Activities**\
+**4. Press/Media Interaction**
 
-1. Websites for posting calls for papers:
-    - [ACL Portal](https://www.aclweb.org/portal/)
-    - [WikiCFP](http://www.wikicfp.com/cfp/)
-    - [Eventseer](http://eventseer.net/)
-2. NLP mailing lists:
-    - Connectionist
-    - Corpora
-    - Linguist List
-    - ML news
-    - MT list
-    - Omid's NLP conference calendar
-    - SemEval
-    - SIGIR
-    - SIGLEX
-    - SIGDIAL
-    - SIGGEN
-    - SIGPARSE
-    - SIGHAN
-    - SIGMORPHON
-    - SIGSEM
-    - SIGWAC
-    - SIGMOL
-    - The [list of all SIGs](https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance)
-3. NLP regional groups
-    - [AFNLP](http://www.afnlp.org/)
-    - ALTA (Australiasian Language Technology)
-    - UK
-    - [Japan](http://www.anlp.jp/en/rules/ML.html)
-    - Taiwan
-    - China
 
-## Social Media
+**General Notes:**
+* The Publicity Chair should work alongside the General Chairs, Local Chairs, Website Chairs, and Program Chairs, where appropriate.
+* Publicity can be gained through contacting the following (non-exhaustive): [Connectionist](https://mailman.srv.cs.cmu.edu/mailman/listinfo/connectionists), [Corpora](https://list.elra.info/mailman3/postorius/lists/corpora.list.elra.info/), [Linguist List](https://linguistlist.org/), [ML News](https://groups.google.com/g/ml-news?pli=1), [MT List](https://eamt.org/mt-list/), [Omid's NLP Conference Calendar](https://www.cs.rochester.edu/nlp/nlpcalendar/), SemEval, [special interest groups (SIGs)](https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance), and regional NLP groups (e.g., [AFNLP](https://www.afnlp.org/web/) and [ALTA](https://www.alta.asn.au/))
 
-- Establish feeds in Twitter, Facebook, and elsewhere for the conference, with the appropriate hashtag name.
-Try to avoid hashtag clash, for example, by using `#acl2016berlin` instead of `#acl2016`.
-`#aclYEAR` is typically used for a sports event (e.g., [https://twitter.com/TheAFCCL](https://twitter.com/TheAFCCL)).
-For EMNLP, NAACL, EACL we don't seem to have this issue.
-- Before the conference, broadcast interesting updates (invited speakers, social events, awards, etc.).
-- Perhaps include the hashtag in an appropriate message in the conference handbook?
-- Arrange for a team of people (especially students) to actively post messages at the conference using the hashtag.
-- Ask the general chair to announce the social media during the opening.
+---
 
-## Local Dissemination (Press)
+## Breakdown of Responsibilities
 
-The Press is usually interested in the following kinds of topics:
+### 1. Cross-Committee Coordination
 
-- A major breakthrough that changes society (rare if ever)
-- A famous invited speaker (like a big name from Google)
-- Some unusual demo or event
+This responsibility concerns cooperating with previous chairs to obtain all necessary information for a smooth handover.
 
-If the conference has none of these, you’re unlikely to interest a reporter.
-But do try!
-For ACL and EMNLP, there are local organizers who may help.
-At ACL 2010 in Sweden, the TV station interviewed several people and broadcasted on national news.
-Below is an example email that we sent to local media for NAACL 2016, that you would need to update and improve before sending it.
+| Task                                                    | Start      | Deadline   | Dependency | Notes                                                                              |
+|---------------------------------------------------------|------------|------------|------------|------------------------------------------------------------------------------------|
+| Contact Previous Year's Chairs                          | ASAP       | July 2024  | -          | -                                                                                  |
+| Organize ACL Account Access Transfers                   | ASAP       | Sep 2024   | -          | This is particularly relevant for transferring access of relevant social accounts. |
+| Confirm Account Transfers                               | Sep 2024   | Sep 2024   | -          | This should include relevant permissions to post to mailing lists and ACL Portals. |
+| Create Shared Document for All Chairs to Requests Posts | March 2025 | March 2025 | -          | Distribute document to all chairs.                                                 |
+| Establish Conference Hashtags                           | March 2025 | March 2025 | -          | Avoid clashes with existing events such as Austin City Limits.                     |
+| Collect Tags/Hashes for Workshops                       | March 2025 | March 2025 | -          | -                                                                                  |
 
-```
-Dear XXXXXX,
+---
 
-We would like to draw your attention to an annual international computer science conference -- NAACL (http://naacl.org/naacl-hlt-2016/) -- that is to be held on June 12-17 in San Diego for the first time.
+### 2.  Disseminating Conference Information
 
-It is a week-long annual conference of the Association for Computational Linguistics, the premier international scientific and professional society for people working on computational problems involving human language. More than 800 computer science researchers in the Artificial Intelligence area will gather together to discuss and present their recent discoveries in machine learning algorithms and various applications, such as deep learning, machine translation, social media analysis, knowledge bases, dialog and interactive systems, to name just a few.
+This responsibility concerns disseminating information about the conference (calls for papers, etc.) to the largest possible appropriate technical audience.
 
-This year’s program consists of 6 half-day tutorials, 100+ talks and 15 full-day workshops. Attendees include students, professors, researchers, software engineers, entrepreneurs from both universities and industry ranging from large companies such as Google, Microsoft, Bloomberg to small start-up companies. Two keynote speeches will be delivered by Regina Barzilay, a professor of MIT and Ehud Reiter, the Chief Scientist of Arria NLG, a UK-based company offering Artificial Intelligence technology in data analytics.
+| Task                                                    | Start      | Deadline   | Dependency                           | Notes                                                                                                       |
+|---------------------------------------------------------|------------|------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Delegate Responsibility Among Chairs                    | Feb 2025   | March 2025 | -                                    | For example, managing social media outlets or mailing lists.                                                |
+| Create & Share Joint Posting Schedule                   | Feb 2025   | March 2025 | -                                    | -                                                                                                           |
+| Invite  Chairs to Pre-specify Social Media Requirements | March 2025 | March 2025 | Create  and include structured sheet | Structured into a) pre-conference; b) during conference, c) after the conference. Send reminders via Slack. |
+| Create LLM prompts for quick  message drafting          | March 2025 | March 2025 | -                                    | -                                                                                                           |
 
-We would like to invite you to attend the event. If you are interested in reporting on the event or need more detailed information, please feel free to contact us at any time.
+---
 
-XXX XXX (University of XXXXXX -- xxx@xxxxx.edu) 
-XXX XXX (University of XXXXXX -- xxx@xxxxx.edu) 
-NAACL 2016 Publicity Chair and General Chair
-```
+### 3.  During-Conference Activities
 
-## Example Tasks and Timeline from ACL2017
+Initiating and maintaining a social media stream before and during the conference (e.g., Facebook and X (Twitter)). We should consider setting up a single Facebook and Twitter for all main conferences. Accessing and bringing in the press at the time of the conference
 
-- Social Media
-    - Recommended platforms: Facebook, Twitter
-    - Optional platform: Instagram
-    - Reference* social media accounts: Facebook@acl2017 Twitter@acl2017 Instagram@aclnlp
-- Chairs to communicate with
-    - General Chair
-    - Program Co-Chairs
-    - Web master
-    - Local Organizing Committee
-- Timeline: (Approximate)
-    - A. As soon as chair is selected:
-        - Create/get access to social media accounts and fill with conference information
-        - Identify media outlets with local organizing committee (e.g. university press, tech magazines, tv stations, etc). Optional: national or international media outlets
-    - B. Oct - Feb, mainly information dissemination
-        - First, second and last CFP
-        - Call-for-participation of tutorials, demos, etc.
-        - Any social media updates suggested by chairs
-        - Reach out to media outlets
-    - C. Feb - Jun
-        - Promote information from Program Co-Chairs and General Chairs
-        - Confirm with chairs on official hashtag and announce via social media
-        - Promote registration when the website is up
-        - Promote accepted papers
-        - Promote conference venue information
-        - Promote other misc informations on the conference website (e.g. reminder for visa application, conference hotel booking, etc.)
-        - Follow up with media outlets
-    - D. July - Before Conference
-        - Reminder of registration deadlines (early, regular and onsite)
-        - Promote about invited speakers and other conference activities
-        - Promote any info requested by the chairs
-    - E. During Conference
-        - Promote reminders of all the main events/activities, as well as tutorial and workshop information
-        - Work with webmaster and chairs to disseminate any important information; also to make sure there's no discrepancy in schedule between difference sources (e.g. handbook vs conference app)
-        - Promote any last min changes or correction
-        - Take photos of sessions, optional: post to instagram
-        - Re-tweet important posts
+| Task                                                                                 | Start      | Deadline   | Dependency | Notes                                                                                                                                                |
+|--------------------------------------------------------------------------------------|------------|------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Obtain a list of First-ime Authors at ACL                                            | April 2025 | April 2025 | -          | **(1)** Contact ACL Anthology Director. **(2)** Send reminder 2 weeks before the conference.                                                         |
+| Plan Posting Schedule for Activities                                                 | April 2025 | May 2025   | -          | -                                                                                                                                                    |
+| Request "Live-Tweeting" Volunteers                                                   | May 2025   | June 2025  | -          | -                                                                                                                                                    |
+| Plan "Live-Tweeting" and Send Instructions to Volunteers                             | May 2025   | June 2025  | -          | These volunteers will continuously tweet and advertising ongoing events (talks, poster sessions, etc.,) to promote attendance from conference-goers. |
+| Prepare  list, content & schedule tweets for planned messages during the  conference | May 2025   | June 2025  | -          | These may include reminders of starting events, tutorials, keynotes, sessions, dinners, and award sessions, among other things.                      |
+| Prepare list of (first) authors for Awarded Papers                                   | May 2025   | June 2025  | -          | Request their professional X/BlueSky handle in case they are to be referenced in live-tweets                                                         |
+
+---
+
+### 4. Press/Media Interaction
+
+This responsibility concerns interacting with local media outlets to gain broader publicity for the conference. The Press is usually interested in the following topics:
+* Major breakthroughs that change society
+* Famous invited speakers
+* Unusual/Unique Demo/Event
+
+At ACL 2010 in Sweden, a local TV station interviewed several attendees. It does not hurt to contact relevant parties even if none of the above are explicitly present at the conference, in order to garner potential interest.
+
+
+| Task                             | Start | Deadline | Dependency                    | Notes |
+|----------------------------------|-------|----------|-------------------------------|-------|
+| Identify Potential Press Outlets | ASAP  | ASAP     | Finalized conference schedule | -     |

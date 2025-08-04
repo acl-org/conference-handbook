@@ -1,43 +1,85 @@
-# Handbook Chair
+# Handbook Chair Handbook
 
-- Time frame: In general, if you can manage two months between the conference start and the main conference and workshop book deadlines, you should find yourself in good shape.
-So ask for 8 weeks and be happy when you get 6 or 7.
-- What follows is a small guide written by Matt Post.
-The handbook AND publication chairs are encouraged to read as soon as possible: https://github.com/naacl-org/naacl-handbook/
-This has been forked multiple times (for subsequent NAACLs, ACLs, and EMNLPs), and there may be updated information elsewhere.
-- Build the handbook as early as you can, and then start updating it.
-The hardest part, by far, is the main conference schedule.
-Do your best to get as much of the rest of the stuff out of the way ahead of time.
-This includes various and sundry tasks such as:
-    - Get a designer to produce a cover for you. 8.75" x 5.75", which includes a 1/8" bleed. This is usually similar to the website design. Don't do it yourself.
-    - Get bios, pictures, and abstracts from invited speakers.
-    - Create pages for special events (reception, social event, business meeting, etc). You should have a nice little writeup that calls attention to all of these events.
-    - Get someone to write the local guide. These are best when they're personalized by people who know the area. For a great example, see the ACL 2014 handbook (http://acl2014.org/handbook-acl2014.pdf).
-    - Get ads from all sponsors, sized appropriate to their classification (gold, silver, etc). These go in the end of the handbook (from the ACL Office).
-    - Get hotel maps for inside front cover (from the ACL Office).
-    - Pester the GC and PC Chairs for their introductory letters.
-    - Think if there is anything cool and new you'd like to add.
-- The main thing you care about is the printer deadline (usually OmniPress), which the ACL Office has pegged at roughly T–4 weeks.
-Work that out with your OmniPress contact.
-Schedule the week before this deadline to dedicate mostly to handbook assembly.
-Gather your patience for dealing with inexperience workshop chairs.
-- Send reminders to workshop chairs about the book deadline, which should be roughly T–5 or T–6 (if you can manage it).
-Workshops are a bit easier to format but see the notes in the linked guide above about getting workshop chairs to use the proper formatting in the order file.
-In the end, it doesn't quite matter, because workshops aren't printed out in that much detail.
-- The hardest thing is the main conference.
-You have to incorporate TACL/CL papers.
-You have to get the schedule in a properly-formatted "order" file from the PCs.
-This has to be finally, finally, finalized at T–5 (this is what fills the week before the T–4 deadline).
-This means setting a deadline well before that.
-Build a relationship with the PC Chairs early, and don't get intimidated about sending them lots of increasingly urgent reminder emails just because they're more famous than you.
-I recommend picking up the phone at some point in the process, preferably early, just to help people get on the same page about what's needed.
-- Make sure to work closely with the publication chairs.
-They are putting together the proceedings, which contain the schedule, but only print it flat, similar to the way the handbooks print workshops schedules.
-YOU (the handbook chair) need a properly formatted, machine-readable "order" file, because you have to pull out times and paper descriptions in order to build daily and session overviews.
-This is a real problem because the pub chairs have the power here but it is the handbook chair who needs the job done in a certain way.
-This is why I have argued that the pub chairs should also do the handbook, but this doesn't always happen.
-- Author index:
-    - Gets everyone's name correct and consistent across the whole conference (tutorials, introductory material, credits, main conference, workshops).
-    - Includes index entries for everyone involved in the conference, including things like session chairs and so on. Much of this has been automated if you use the proper tags in the "order" file (which could be better documented).
-    - This usually involves compiling the proceedings and then sending them to the ACL Anthology, who runs them against the Anthology Network and finds corrections. This has been made easier in the past few years by the START logins which let people choose their name formatting and make it consistent, but people don't always do this. Also, the workshop and pub chairs have a duty to go through and verify these consistencies themselves, in part because it can be a lot of work, they don't always do it.
+## [Current Chairs](https://2025.aclweb.org/organization/)
 
+| Name        | Affiliation          | Contact               |
+|-------------|----------------------|-----------------------|
+| Els Lefever | Ghent University     | els.lefever@ugent.be  |
+| Qiongkai Xu | Macquarie University | qiongkai.xu@mq.edu.au |
+
+---
+
+## Overview of Responsibilities
+
+Handbook Chairs produce both the **printed pocket book** and the **search‑friendly online handbook** that guide attendees through the conference. The role requires early planning, relentless data‑collection, and tight coordination with Publication Chairs, Program Chairs, Workshop & Tutorial organisers, and the ACL Office.
+
+**The following are the main responsibilities of the Handbook Chairs:**
+
+**1. Timeline Planning & Stakeholder Coordination**  
+**2. Toolchain & Assets Preparation**  
+**3. Content Collection & Drafting**  
+**4. Final Assembly, Proofing & Distribution**
+
+---
+
+## Breakdown of Responsibilities
+
+### 1. Timeline Planning & Stakeholder Coordination
+
+This responsibility concerns achieving consensus on milestones and creating timelines of expectations.
+
+| Task                                                                      | Start    | Deadline  | Dependency         | Notes                                                                                                                                              |
+|---------------------------------------------------------------------------|----------|-----------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Contact Previous Year’s Handbook Chairs                                   | ASAP     | July 2024 | –                  | **(1)** Gather lessons & obtain script forks; **(2)** Example handbook scripts are available [here](https://github.com/naacl-org/naacl-handbook/). |
+| Draft High‑level Timeline                                                 | Nov 2024 | Dec 2024  | 2025 CFP published | **(1)** Request ≥ 8 weeks between handbook draft & conference start, per handbook guideline; **(2)** Share with General Chair/Program Chair        |
+| Circulate Timeline to all Sub‑chairs (e.g., Workshops, Tutorials, Social) | Dec 2024 | Jan 2025  | Timeline approved  | Use Google Doc with colour‑coded deadlines.                                                                                                        |
+
+---
+
+### 2. Toolchain & Assets Preparation
+
+This responsibility concerns setting up software and gaining access to resources that are required for compiling the conference handbook.
+
+
+| Task                                       | Start    | Deadline   | Dependency        | Notes                                                            |
+|--------------------------------------------|----------|------------|-------------------|------------------------------------------------------------------|
+| Install & Test Handbook Build Scripts      | Jan 2025 | Jun 2025   | –                 | Fork NAACL‑handbook repo; ensure LaTeX/Python deps reproducible. |
+| Commission Cover Design & Graphics         | Jan 2025 | March 2025 | Budget approval   | Follow spec 8.75″×5.75″ with 1/8″ bleed.                         |
+| Draft and Collect other Handbook Resources | ASAP     | May 2025   | ACL Office assets | See below.                                                       |
+
+It is in your best interest to prepare as much of the handbook as possible ahead of time, updating it as things progress. Some elements that can be prepared are as follows:
+
+- Get bios, pictures, and abstracts from invited speakers.
+- Create pages for special events (reception, social event, business meeting, etc). You should have writeup that calls attention to all of these events.
+- Commission a local guide. These are best when they're personalized by people who know the area. For a great example, see the [ACL 2014 handbook](http://acl2014.org/handbook-acl2014.pdf).
+- Get ads from all sponsors, sized appropriate to their classification (gold, silver, etc). These go in the end of the handbook (from the ACL Office).
+- Get hotel maps for inside front cover (from the ACL Office).
+- Ask the General Chair and Program Chairs for their introductory letters.
+
+---
+
+### 3. Content Collection & Drafting
+
+This responsibility involves creating drafts and finalized versions of the conference handbook ready for production.
+
+| Task                                              | Start     | Deadline  | Dependency                                | Notes                                                                                 |
+|---------------------------------------------------|-----------|-----------|-------------------------------------------|---------------------------------------------------------------------------------------|
+| Main Conference Schedule Draft Complete           | May 2025  | June 2025 | Received "order" file from Program Chairs | Contact Program Chairs as early as possible and send repeated reminders if necessary. |
+| Receive Workshop, Tutorial & Social Event Details | 1 June 2025 | 15 June 2025 | Event chairs respond                      | Send reminders ~8 weeks prior to the conference.                                     |
+| First complete handbook draft (print)             | 15 June 2025 | 22 June 2025 | All content received (including messages from GC and PCs) | Send PDF to OmniPress for soft proof to Jenn, General Chair and Program Chairs.  **IMPORTANT**: This deadline is **very time-sensitive**, as all proceedings must be finalized 2–3 weeks before the conference begins. **Check with Jenn** for the exact time when the final version of the handbook needs to be ready for printing.    |
+| More revisions based on comments                  | 22 June 2025 | 2 July 2025 | Feedback from handbook reviewers       | Create new PDFs. It is very important that in this period chairs are available on a daily basis to compile new versions of the handbook draft. |
+
+---
+
+### 4. Final Assembly, Proofing & Distribution
+
+This responsibility concerns the very final steps of handbook approval in addition to the process of getting physical copies made.
+
+It is important to ensure everyone's name is correct and consistent across the entire conference. This usually involves compiling the proceedings and then sending them to the ACL Anthology, who runs them against the Anthology Network and finds corrections. The Workshop and Publication chairs have a duty to go through and verify these consistencies themselves, but in part because it can be a lot of work, they don't always do it.
+
+| Task                                      | Start                     | Deadline         | Dependency            | Notes                                                             |
+|-------------------------------------------|---------------------------|------------------|-----------------------|-------------------------------------------------------------------|
+| Final PDF sign‑off                        | 1 July 2025                 | 2 July 2025        | -                     | Printer deadline T–4 (print) and T–1 (digital).  |
+| Publish Online Handbook & Push to Website | July 2025                 | July 2025        | Approved final draft  | Host on GitHub Pages with search index.                           |
+| Send Handbook for Printing                | 4 weeks before conference | Conference start | -                     | **Check with Jenn.** Liaise with printer (usually [OmniPress](https://omnipress.com/)) |
+| Distribute Print Handbooks Onsite         | July 2025                 | Aug 2025         | Delivery from printer | Coordinate with Local & Registration desks.                       |

@@ -1,56 +1,104 @@
-# Student Research Workshop
+# Student Research Workshop (SRW) Chair Handbook  
 
-The Student Research Workshop is organized by the student chairs, with guidance from the faculty advisors appointed by the General Chair.
+## [Current Team](https://2025.aclweb.org/organization/):  
 
-## Student Chairs
+### Student Research Workshop Chairs
+| Name          | Affiliation                            | Contact                        |
+|---------------|----------------------------------------|--------------------------------|
+| Zhu Liu       | Tsinghua University                    | liuzhu22@mails.tsinghua.edu.cn |
+| Mingyang Wang | Ludwig Maximilian University of Munich | mingyang@cis.lmu.de            |
+| Jin Zhao      | Brandeis University                    | jinzhao@brandeis.edu           |
 
-The student chairs of the Student Research Workshop are responsible for assembling the program committee, requesting student papers, selecting appropriate ones, arranging for their presentation (including the format, such as oral or posters, and if appropriate refreshments, presentation and computer requirements, and all other special needs).
-In addition, the student chairs are responsible for proposing travel grant recipients --- see [policy on general student travel funding](https://aclweb.org/adminwiki/index.php/Student_travel_funding).
-This may include proposing funding allocations for student applicants for the full conference, not only for SRW participants -- the student chairs should coordinate with the general chair and the ACL Office about this.
+**The chairs of the Student Research Workshop are responsible for:**
+* Assembling the SRW program committee.
+* Requesting student papers & selecting appropriate ones.
+* Arranging for their presentation (including the format, such as oral or posters, and if appropriate refreshments, presentation and computer requirements, and all other special needs).
+* Proposing travel grant recipients ([see policy on general student travel funding](https://aclweb.org/adminwiki/index.php/Student_travel_funding)) - This may include proposing funding allocations for student applicants for the full conference, not only for SRW participants. The student chairs should coordinate with the general chair and the ACL Office about this.
 
-If the selected student papers are presented in a workshop, then the same general instructions apply as those that hold for workshop chairs (see [Workshop Chairs](workshop.md)).
+### Faculty Advisors
+| Name               | Affiliation              | Contact                     |
+|--------------------|--------------------------|-----------------------------|
+| Lea Frermann       | University of Melbourne  | lea.frermann@unimelb.edu.au |
+| Daniel Hershcovich | University of Copenhagen | dh@di.ku.dk                 |
+| Tristan Miller     | University of Manitoba   | Tristan.Miller@umanitoba.ca |
 
-The workshops must be self-financing (at least); any surplus belong to ACL, but may (with agreement by the Exec) be used to support invited speakers and students.
+**The faculty advisors are responsible for:**
+* Overseeing the organization of the SRW and providing suggestions to the student chairs
+* Ensuring that ACL student session policies are adhered to seeking funding for students to attend the ACL conference and in particular the ACL Student Research Workshop
+* Overseeing the selection of students to receive travel funding (see ACL policy on general student travel funding)
+* Submitting proposals for funding to external funding agencies.
+---
 
-See the [SRW policies page](https://aclweb.org/adminwiki/index.php/***_student_session_policies#Roles_and_Responsibilites_of_the_Organising_Committee) for more information about the goals and policies of the SRW (though the page has not been updated for some time).
+## Overview of Responsibilities  
+The Student Session provides a valuable opportunity for the next generation of computational linguists to enter the CL community. It allows the best students in the field to take their first important step towards becoming professional computational linguists by:
 
-[Useful checklist of things to do (from a past student chair)][1]
-[1]:https://aclweb.org/adminwiki/index.php/Useful_checklist_of_things_to_do_(from_a_past_student_chair)
+* Receiving critical feedback on their work from experts outside their advisory team;
+* Making contact with other students and key researchers in their field;
+* Presenting their work formally in a professional setting;
+* Reviewing the work of others and assisting in the organisation of the session.
 
-## Faculty Advisors
+**The following are the main responsibilities of the Student Research Workshop Chairs:**
+1. **Student Research Workshop Planning & Submission**   
+2. **Student Mentorship Program**  
+3. **Student Funding & Travel Grants**
 
-The faculty advisors are responsible for:
+---
 
-- overseeing the organization of the SRW and providing suggestions to the student chairs
-- ensuring that [ACL student session policies](https://aclweb.org/adminwiki/index.php/***_student_session_policies) are adhered to seeking funding for students to attend the ACL conference and in particular the ACL Student Research Workshop
-- overseeing the selection of students to receive travel funding (see [ACL policy on general student travel funding](https://aclweb.org/adminwiki/index.php/Student_travel_funding))
+## Breakdown of Responsibilities  
 
-The faculty advisors are responsible for submitting proposals for funding to external funding agencies.
-[ACL-05 proposal to NSF](https://www.aclweb.org/archive/policies/current/student-funding-proposal-05.pdf) provides a sample proposal.
-However, efforts should be extended to funding agencies in Europe and Asia, since NSF restrictions can limit the travel funds that can be provided to students based outside the United States.
-The faculty advisors should begin seeking funding immediately upon appointment to the position.
+### 1. Student Research Workshop Planning & Submission
 
-## SRW Program Committee
+The Student Research Workshop (SRW) is a forum to bring together students investigating various areas of Computational Linguistics, Natural Language Processing and Machine Learning. The workshop provides an excellent opportunity for participants to present their work and to receive mentorship and valuable feedback from the international research community.
 
-The student chairs, in collaboration with the faculty advisors, assemble a list of reviewers.
-The student chairs invite the reviewers to serve on the SRW program committee.
+The workshop’s goal is to aid students at multiple stages of their education, including undergraduate, MSc/MA, junior and senior PhD students, in getting familiar with conducting and presenting their research.
 
-## Call for Papers
+A number of decisions can be made by the SRW Chairs, including:
+* Accepting both archival (i.e., included in conference proceedings) and non-archival (i.e., presented at the workshop but not published in proceedings) papers.
+* Criteria for student status (i.e., full-time v. part-time, level of education [UG, PG, PhD], whether student status must be proven at the point of submission, etc.).
+* Policy on joint submissions with other conferences (excluding joint submission to both student and main conference sessions, which should be prohibited).
 
-Sample calls for student papers appear in [CFP for student research workshop at ACL-17](https://www.aclweb.org/portal/content/acl-2017-student-research-workshop-srw).
+| Task                                                                           | Start         | Deadline                   | Dependency                              | Notes                                                                                                                           |  
+|--------------------------------------------------------------------------------|---------------|----------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|  
+| Contact Previous SRW Chairs & Introduce current SRW Chairs to Faculty Advisors | ASAP          | Late Summer 2024           | -                                       | **(1)** Gather insights on submissions, reviews, and challenges. **(2)** Estimate submission numbers for the upcomming workshop | 
+| Identify & Contact Reviewer Candidates                                         | November 2024 | March  2025                | -                                       | Collaborate with faculty advisors.                                                                                              |  
+| Set up OpenReview                                                              | November 2024 | November 2024              | -                                       | Follow main conference timeline for camera-ready versions.                                                                      |
+| Contact Reviewers                                                              | November 2024 | March  2025                | -                                       | Ensure diverse expertise; aim for 3 reviews/paper.                                                                              |  
+| Plan & Publicize Call for SRW Papers                                           | November 2024 | Paper submission deadline. | Must be approved by the Program Chairs. | [Example Call for SRW papers.](https://2024.aclweb.org/calls/student_research_workshop/)                                        | 
+| Reviewing period                                           | 23 May 2025 | 7 June 2025 | - | Aim to collect at least 3 reviews for each paper. Progress is only 33.31% by 7 June 2025.                                        | 
+| Emergency Reviewing period                                           | 7 June 2025 | 13 June 2025 | - | Aim to collect at least 3 reviews for each paper. Progress is only 94.43% by 13 June 2025.                                        | 
+| Decision period                                           | 16 June 2025 | 22 June 2025 | - | Make decisions on acceptance(oral/poster)/rejection based on the reviews. **Get in touch with the publication chairs to organize the timeline for providing proceedings.**                                       | 
+| Submission Revision period                                           | 22 June 2025 | 2 July 2025 | - |  Collect all camera ready versions, student proofs and signed ACL Copyright Transfer Agreement forms from accepted authors. Make sure authors have openreview account. **IMPORTANT**: This deadline is **very time-sensitive**, as all proceedings must be finalized 2–3 weeks before the conference begins.                                        | 
 
-## Mentoring
+---
 
-If the student chairs and the faculty advisors decide on a mentorship program for student papers, the student chairs recruit mentors (first among the program committee) and assign them student mentees.
+### 2. Student Mentorship Program  
 
-Mentorship can take the form of pre-submission mentorship, to give feedback on the quality of writing and presentation prior to submission, and/or post-acceptance mentorship, to provide feedback to students in the form of in-depth comments and questions during the conference.
+The purpose of the Mentorship Program is to provide student researchers with an opportunity to discuss their ideas and receive constructive feedback from more experienced members of the computational linguistics community. Mentorship activities include detailed feedback on the writing, presentation, and content of submitted papers, helping authors polish their manuscripts before the final peer-review stage. 
 
-## Travel Grant Recommendation
+As part of the program, authors are encouraged to upload their manuscripts to a shared drive before the submission deadline. Mentors—selected from a pool of senior researchers—are then assigned one or two papers each via email. After the feedback deadline, mentors upload their comments in the form of annotated files through a shared submission form, which are then returned to the corresponding authors.
 
-If funds are available to support student travel, the student chairs, in collaboration with the faculty advisors, gather requests for funding from students and make recommendations for funding allocation, to be approved by the ACL Treasurer.
+| Task                               | Start       | Deadline   | Dependency | Notes                                                                                     |  
+|------------------------------------|-------------|------------|------------|-------------------------------------------------------------------------------------------|  
+| Identify mentor candidates         | January 2025     | March 2025 | -          | Prioritize experienced researchers while maintaining demographic and expertise diversity. |  
+| Define the Pre-Submission Mentorship Program | February 2025 | March 2025 | - | Ensure the Call for Papers includes the Pre-Submission Mentorship Program. See also the "Student Research Workshop Planning & Submission" Responsibility. 
+| Assign mentees                     | April 2025        | April 2025        | -          | Pair based on research interests.                     |
+| Distribute Mentor Feedback to Mentees        | May 2025        | May 2025        | -          | Offer presubmission guidance.   |
+ 
 
-## Proceedings
+---
 
-Proceedings are printed and distributed by the ACL.
-Deadlines and instructions are given by the publication chair.
+### 3. Student Funding & Travel Grants
 
+Pending approval, student funding and travel grants may be available to individuals submitting to the SRW (and other students attending in some other capacity, such as main conference attendees). These subsidies cover things such as registration and travel/accommodation help, depending on individual need and available funding.
+
+ACL strongly encourages students with financial hurdles to apply for both student subsidies and volunteering opportunities to maximize their chances of waiving their registration fees.
+
+[See the ACL Policy on General Student Travel Funding for Conferences.](https://www.aclweb.org/archive/policies/current/student-funding.html)
+
+| Task                                    | Start         | Deadline     | Dependency                             | Notes                                                                                                                                                                                                                                                                     |  
+|-----------------------------------------|---------------|--------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
+| Identify Funding Sources                | November 2024 | January 2025 | -                                      | Faculty advisors are responsible for submitting proposals to external funding agencies (see a funding proposal example [here](https://www.aclweb.org/archive/policies/current/student-funding-proposal-05.pdf)).                                                          |  
+| Submit Meeting Fund Application         | November 2024 | March 2025   | Financial approval from ACL Treasurer. |                                                                                                                                                                                                                                                                           |
+| Negotiate Main Conference Sponsorship   | March 2025    | April 2025   | -                                      | Secure shared funding for student travel.                                                                                                                                                                                                                                 |  
+| Publicize Call for Subsidy Applications | March 2025    | March 2025   | -                                      |                                                                                                                                                                                                                                                                           |
+| Allocate Subsidies                      | June 2025    | June 2025   | Subsidy applications closed.           | **(1)** Prioritize underrepresented regions and financial need. **(2)** It is recommended to prioritize partial support to multiple students, rather than full support for a small number (if financially limited). **(3)** Travel grants require ACL Treasurer approval. |  
