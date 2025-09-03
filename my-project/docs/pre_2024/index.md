@@ -1,1 +1,20 @@
-Test
+# Conference Chair Duties
+
+- [Local Organization Chair](local.md)
+- [Publication Chair](publication.md)
+- [Handbook Chair](handbook.md)
+- [Workshop Chair](workshop.md)
+- [Tutorial Chair](tutorial.md)
+- [Demo Chair](demo.md)
+- [Industry Track Chair](industry.md) (TBA)
+- [Student Research Workshop](srw.md)
+- [Student Volunteer Chairs](volunteer.md)
+- [Sponsorship Chair](sponsorship.md)
+- [Exhibits Chair](exhibits.md)
+- [Publicity Chair](publicity.md)
+- [Website Chair](website.md)
+- [Virtual Infrastructure Chair](virtual.md)
+- [Ethics Chair](ethics.md)
+- [Diversity and Inclusion Chair](diversity.md)
+- [Technical Open Review Chair](tech.md)
+- [Internal Communication Chair](communication.md)
