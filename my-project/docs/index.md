@@ -56,7 +56,9 @@ The following documents are also relevant:
 - [Handbooks 2025](./2025/index.md)
 - [General Chair](general.md)
 - [Program Chair](pc.md)
-- [Best Paper Award Chair](award.md)
+
+## Conference Awards
+- [Implementation of Award Selection Process](award.md)
 
 ## Documents
 
