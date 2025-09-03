@@ -1,4 +1,4 @@
-# Conference Chair Duties
+# Conference Chair Duties Prior to 2024
 
 - [Local Organization Chair](local.md)
 - [Publication Chair](publication.md)
