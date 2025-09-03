@@ -40,6 +40,7 @@ The following documents are also relevant:
 
 - [Conference schedule](schedule.md)
 - [Budgets](budgets.md)
+- [Ethical Review Recommendations](https://ethics.aclweb.org/resources/ethical-review-recommendations/)
 - [Remote conference presentation](remote.md)
 - [Invited speakers and their reimbursements](invited.md)
 - [Conference acronym](acronym.md)
