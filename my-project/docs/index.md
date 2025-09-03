@@ -54,28 +54,9 @@ The following documents are also relevant:
 
 - [Handbooks prior to 2024](./pre_2024/index.md)
 - [Handbooks 2025](./2025/index.md)
-
 - [General Chair](general.md)
-- [Local Organization Chair](local.md)
 - [Program Chair](pc.md)
 - [Best Paper Award Chair](award.md)
-- [Publication Chair](publication.md)
-- [Handbook Chair](handbook.md)
-- [Workshop Chair](workshop.md)
-- [Tutorial Chair](tutorial.md)
-- [Demo Chair](demo.md)
-- [Industry Track Chair](industry.md) (TBA)
-- [Student Research Workshop](srw.md)
-- [Student Volunteer Chairs](volunteer.md)
-- [Sponsorship Chair](sponsorship.md)
-- [Exhibits Chair](exhibits.md)
-- [Publicity Chair](publicity.md)
-- [Website Chair](website.md)
-- [Virtual Infrastructure Chair](virtual.md)
-- [Ethics Chair](ethics.md)
-- [Diversity and Inclusion Chair](diversity.md)
-- [Technical Open Review Chair](tech.md)
-- [Internal Communication Chair](communication.md)
 
 ## Documents
 
