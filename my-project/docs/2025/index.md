@@ -1,1 +1,22 @@
 # Conference Chair Duties 2025
+
+- [Local Organization Chair](local.md)
+- [Best Paper Award Chair](best_paper.md)
+- [Publication Chair](publication.md)
+- [Publicity Chair](publicity.md)
+- [Handbook Chair](handbook.md)
+- [Workshop Chair](workshop.md)
+- [Tutorial Chair](tutorial.md)
+- [Demo Chair](demo.md)
+- [Industry Track Chair](industry.md) 
+- [Ethics Chair](ethics.md)
+- [Diversity and Inclusion Chair](D&I.md)
+- [Sponsorship Chair](sponsorship.md)
+- [Student Research Workshop](SRW.md)
+- [Website Chair](website.md)
+- [Virtual Infrastructure Chair](virtual_infrastructure.md)
+- [Visa Chairs](visa.md)
+- [Technical Open Review Chair](technical.md)
+- [Internal Communication Chair](ICC.md)
+- [Student Volunteer Chairs](volunteer.md)
+
