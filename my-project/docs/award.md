@@ -4,8 +4,7 @@ Best Paper Award Chairs are responsible for selecting conference awards complyin
 
 This handbook describes a possible implementation of the selection process (for large conferences). As the number of candidates can vary considerably across *ACL conferences, the award committee retains discretion to adapt the process as appropriate within the bounds of the conference’s award policy.
 
-|ARR provides a streamlined process for collecting anonymous camera-ready submissions. In addition, PCs should already have received introductory information about ARR and OpenReview. The award committee may consult the PCs at any time if they have questions regarding the infrastructure.|
-|:-|
+**ARR provides a streamlined process for collecting anonymous camera-ready submissions.** In addition, PCs should already have received introductory information about ARR and OpenReview. The award committee may consult the PCs at any time if they have questions regarding the infrastructure.
 
 ## Nominations 
 
