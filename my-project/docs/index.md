@@ -55,6 +55,7 @@ The following documents are also relevant:
 
 - [Handbooks prior to 2024](./pre_2024/index.md)
 - [Handbooks 2025](./2025/index.md)
+- [Handbooks EACL](./eacl/index.md)
 - [General Chair](general.md)
 - [Program Chair](pc.md)
 - [Publicity Chair](publicity.md)
